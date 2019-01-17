@@ -18,4 +18,4 @@ class Triangle:
         return self.a + self.b + self.c
 
     def sides(self):
-        print("The segments of the triangle are equal", self.a, ",", self.b, "and", self.c)
+        print("The segments of the triangle equal", self.a, ",", self.b, "and", self.c)
